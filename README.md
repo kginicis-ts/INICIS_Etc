@@ -17,6 +17,8 @@
 
 > 포인트 적립 : https://manual.inicis.com/pay/etc-point.html
 
+> 일본결제 CBT결제 : https://manual.inicis.com/jppay/cbtauth.html
+
 > 샘플 다운로드 시 계약하신 상점아이디로 로그인 가능하며, 계약 이전일 경우 당사 영업담당자측으로 문의 부탁드립니다. <br>
 > ** 담당자를 모르실 경우 고객센터 1588 - 4954 를 통해 연결 가능합니다.
 
